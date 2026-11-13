@@ -1,8 +1,9 @@
 # John Wayne Williams
 
-<img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John Wayne Williams" width="150" height="150" align="right" style="margin-left: 1.25rem; margin-bottom: 0.75rem; border-radius: 50%; border: 4px solid #8ad8ff; object-fit: cover; background: #0b1220; box-shadow: 0 10px 24px rgba(12, 18, 29, 0.22);" />
-
-Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.
+<div>
+  <img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John Wayne Williams" width="150" height="150" align="right" style="margin-left: 1.25rem; margin-top: 0.5rem; margin-bottom: 0.75rem; border-radius: 50%; border: 4px solid #8ad8ff; object-fit: cover; background: #0b1220; box-shadow: 0 10px 24px rgba(12, 18, 29, 0.22);" />
+  <p style="margin-top: 0; margin-bottom: 0.75rem;">Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</p>
+</div>
 
 <br clear="right" />
 
