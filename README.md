@@ -1,15 +1,11 @@
-# John Wayne Williams
+# John W Williams
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle" style="padding-right: 1.25rem;">
-      <p>Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</p>
-    </td>
-    <td valign="middle" align="center">
-      <img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John Wayne Williams" width="150" height="150" />
-    </td>
-  </tr>
-</table>
+<img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John W Williams" width="180" height="180" align="right" />
+<br></br>
+<em>Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</em>
+
+<br clear="right" />
+<br></br>
 
 <div>
   <a href="https://jwwildebeast.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=globe" alt="Website" /></a>
