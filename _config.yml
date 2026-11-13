@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "John Wayne Williams / jwwildebeast"
 title_separator          : "-"
 name                     : &name "John Williams"
-description              : &description "PhD student and graduate research assistant at the University of Tennessee, Knoxville."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Ph.D. candidate and graduate research assistant in Industrial & Systems Engineering at the University of Tennessee, Knoxville."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jwwildebeast.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,10 +23,10 @@ repository               : "jwwildebeast/jwwildebeast.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "john-williams-photo.jpg"
+  avatar           : "john-williams-headshot.jpg"
   name             : "John Wayne Williams"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, Industrial & Systems Engineering"
+  bio              : "Ph.D. Candidate, Industrial & Systems Engineering"
   location         : "Knoxville, TN"
   employer         : "University of Tennessee, Knoxville; Applied Systems Laboratory"
   uri              : "https://asl.utk.edu"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/johnwwilli"
+  linkedin         : "johnwwilli"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

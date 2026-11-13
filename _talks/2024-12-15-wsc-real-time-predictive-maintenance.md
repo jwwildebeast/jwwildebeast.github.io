@@ -1,13 +1,11 @@
 ---
-title: "Winter Simulation Conference 2024: Real-Time Predictive Maintenance"
+title: "Real-Time Predictive Maintenance: A Digital Twin Approach With LLM-Generated Work Instructions"
 collection: talks
-type: "Conference presentation"
+type: "Poster presentation"
 permalink: /talks/2024-12-15-wsc-real-time-predictive-maintenance
-venue: "Winter Simulation Conference"
+venue: "Winter Simulation Conference 2024"
 date: 2024-12-15
 location: "Orlando, FL, USA"
 ---
 
-Presented at Winter Simulation Conference 2024.
-
-Presented only the poster "Real-Time Predictive Maintenance: A Digital Twin Approach With LLM-Generated Work Instructions" and participated in the poster session.
+Poster presented at the Winter Simulation Conference 2024 poster session, showing a real-time digital twin for predictive maintenance that combines machine learning with LLM-generated maintenance work instructions.
