@@ -1,4 +1,4 @@
-# John Wayne Williams
+# John W Williams
 
 Ph.D. candidate and Graduate Research Assistant in Industrial & Systems Engineering at the University of Tennessee, Knoxville.
 
