@@ -1,4 +1,4 @@
-# John Wayne Williams
+# John W Williams
 
 <img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John W Williams" width="180" height="180" align="right" />
 
