@@ -1,9 +1,9 @@
 # John Wayne Williams
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="middle" style="padding-right: 1.25rem;">
-      <p><strong>Ph.D. candidate</strong> and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</p>
+      <p>Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</p>
     </td>
     <td valign="middle" align="center">
       <img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John Wayne Williams" width="150" height="150" />
