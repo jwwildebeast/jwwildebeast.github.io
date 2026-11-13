@@ -5,7 +5,7 @@
 Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.
 
 <br clear="right" />
-
+<br></br>
 
 <div>
   <a href="https://jwwildebeast.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=globe" alt="Website" /></a>
