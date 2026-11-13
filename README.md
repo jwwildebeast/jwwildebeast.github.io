@@ -1,4 +1,6 @@
-# John W Williams
+# John Wayne Williams
+
+<img src="images/john-williams-headshot.jpg" alt="John Wayne Williams" width="150" align="right" style="border-radius: 50%; margin-left: 1.25rem; margin-bottom: 0.75rem;" />
 
 Ph.D. candidate and Graduate Research Assistant in Industrial & Systems Engineering at the University of Tennessee, Knoxville.
 
