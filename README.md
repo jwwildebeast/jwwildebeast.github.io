@@ -1,6 +1,6 @@
 # John Wayne Williams
 
-<img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John Wayne Williams" width="180" height="180" align="right" />
+<img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John W Williams" width="180" height="180" align="right" />
 
 Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.
 
