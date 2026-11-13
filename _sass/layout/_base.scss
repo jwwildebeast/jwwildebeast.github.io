@@ -62,6 +62,7 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
+  color: var(--global-text-color);
 }
 
 u,
@@ -115,6 +116,8 @@ blockquote {
 /* links */
 
 a {
+  color: var(--global-link-color);
+
   &:focus {
     @extend %tab-focus;
   }
@@ -122,6 +125,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: var(--global-link-color-hover);
   }
 }
 
@@ -260,8 +264,8 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      color: #000;
-      border-bottom-color: #000;
+      color: var(--global-link-color);
+      border-bottom-color: var(--global-link-color);
     }
   }
 }

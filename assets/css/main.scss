@@ -44,26 +44,28 @@
 
 .home-hero {
   margin: 0 0 1.5em;
-  padding: 1.5em 1.5em 1.2em;
-  border: 1px solid rgba(142, 217, 255, 0.22);
-  border-radius: 18px;
-  background: linear-gradient(135deg, rgba(22, 61, 99, 0.08), rgba(116, 196, 255, 0.12));
-  box-shadow: 0 18px 45px rgba(8, 15, 28, 0.08);
+  padding: 1.6em 1.5em 1.25em;
+  border: 1px solid rgba(138, 216, 255, 0.28);
+  border-radius: 20px;
+  background:
+    radial-gradient(circle at top left, rgba(138, 216, 255, 0.18), transparent 35%),
+    linear-gradient(135deg, rgba(16, 44, 66, 0.88), rgba(4, 18, 31, 0.96));
+  box-shadow: 0 20px 50px rgba(4, 12, 22, 0.18);
 }
 
 .home-hero__eyebrow {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.6em;
   color: var(--global-link-color);
-  font-size: 0.78em;
+  font-size: 0.76em;
   font-weight: 700;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
 }
 
 .home-hero h2 {
   margin: 0;
-  font-size: clamp(1.8rem, 2.5vw, 2.8rem);
-  line-height: 1.12;
+  font-size: clamp(2rem, 3vw, 3rem);
+  line-height: 1.08;
   letter-spacing: -0.04em;
   color: var(--global-text-color);
 }
@@ -72,36 +74,36 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1rem;
-  margin: 0 0 1.5em;
+  margin: 0 0 1.6em;
 }
 
 .home-panel {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.42rem;
   padding: 1rem 1.1rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.02);
-  box-shadow: 0 10px 25px rgba(8, 15, 28, 0.04);
+  border: 1px solid rgba(138, 216, 255, 0.2);
+  border-radius: 16px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(138, 216, 255, 0.04));
+  box-shadow: 0 12px 28px rgba(6, 15, 26, 0.09);
 }
 
 .home-panel__label {
   color: var(--global-link-color);
   font-size: 0.72em;
   font-weight: 700;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
 .home-panel strong {
   color: var(--global-text-color);
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 .page__content h2 {
-  margin-top: 1.75em;
-  padding-bottom: 0.55em;
+  margin-top: 1.9em;
+  padding-bottom: 0.6em;
   border-bottom: 1px solid var(--global-border-color);
   letter-spacing: -0.03em;
 }
@@ -118,8 +120,94 @@
   font-weight: 600;
 }
 
+.page__content p {
+  line-height: 1.7;
+}
+
+.masthead {
+  background: rgba(7, 24, 38, 0.78);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(138, 216, 255, 0.18);
+  box-shadow: 0 12px 30px rgba(5, 14, 22, 0.12);
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+}
+
+.masthead__menu-item a {
+  border-radius: 999px;
+  padding: 0.45em 0.8em;
+  transition: all 0.2s ease;
+}
+
+.masthead__menu-item a:hover {
+  background: rgba(138, 216, 255, 0.08);
+  color: var(--global-link-color);
+}
+
+.masthead__menu-item.selected a {
+  background: rgba(138, 216, 255, 0.08);
+  border: 1px solid rgba(138, 216, 255, 0.2);
+  border-bottom: 1px solid rgba(138, 216, 255, 0.2);
+  color: var(--global-link-color);
+}
+
+.page .page__inner-wrap {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(138, 216, 255, 0.04));
+  border: 1px solid rgba(138, 216, 255, 0.18);
+  border-radius: 22px;
+  box-shadow: 0 18px 45px rgba(5, 14, 22, 0.08);
+  padding: clamp(1.25em, 3vw, 2.5em);
+}
+
+.page__title {
+  margin-bottom: 0.35em;
+  font-size: clamp(2rem, 3vw, 3rem);
+  line-height: 1.08;
+  letter-spacing: -0.04em;
+}
+
+.page__lead {
+  color: var(--global-text-color-light);
+  max-width: 70ch;
+}
+
+.page__content {
+  padding-top: 0.25em;
+}
+
+.page__content h2 {
+  margin-top: 1.75em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid rgba(138, 216, 255, 0.18);
+}
+
+.page__content h3,
+.page__content h4 {
+  color: var(--global-text-color);
+}
+
+.page__content blockquote {
+  margin: 1.5em 0;
+  padding: 0.85em 1em 0.85em 1.1em;
+  background: rgba(138, 216, 255, 0.04);
+  border-left: 3px solid var(--global-base-color);
+  border-radius: 0 12px 12px 0;
+}
+
 @media (max-width: 600px) {
   .home-hero {
     padding: 1.25em 1.1em 1em;
+  }
+
+  .home-panel {
+    border-radius: 12px;
+  }
+
+  .page .page__inner-wrap {
+    padding: 1.1em 1em;
+    border-radius: 16px;
   }
 }
