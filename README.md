@@ -2,7 +2,7 @@
 
 <img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John W Williams" width="180" height="180" align="right" />
 <br></br>
-<strong>Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</strong>
+<em>Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</em>
 
 <br clear="right" />
 <br></br>
