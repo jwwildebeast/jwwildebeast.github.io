@@ -1,10 +1,10 @@
 # John Wayne Williams
 
-<img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John Wayne Williams" width="150" height="150" align="left" style="margin-right: 1.25rem; margin-bottom: 0.75rem; border-radius: 50%; border: 4px solid #8ad8ff; object-fit: cover; background: #0b1220; box-shadow: 0 10px 24px rgba(12, 18, 29, 0.22);" />
+<img src="images/JohnWilliams_Headshot_CircleCrop.png" alt="John Wayne Williams" width="150" height="150" align="right" style="margin-left: 1.25rem; margin-bottom: 0.75rem; border-radius: 50%; border: 4px solid #8ad8ff; object-fit: cover; background: #0b1220; box-shadow: 0 10px 24px rgba(12, 18, 29, 0.22);" />
 
 Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.
 
-<br clear="left" />
+<br clear="right" />
 
 <div>
   <a href="https://jwwildebeast.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=globe" alt="Website" /></a>
