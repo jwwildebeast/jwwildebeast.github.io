@@ -1,16 +1,10 @@
 # John Wayne Williams
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle" style="padding-right: 1.25rem;">
-        <p>Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</p>
-      </td>
-      <td valign="middle">
-        <img src="images/john-williams-headshot.jpg" alt="John Wayne Williams" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid rgba(142, 217, 255, 0.9); box-shadow: 0 10px 24px rgba(12, 18, 29, 0.18);" />
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
+  <div style="flex: 1 1 420px; min-width: 220px; margin: 0; padding: 0; border: 0; background: transparent;">
+    <p style="margin: 0; line-height: 1.5; font-size: 1.05rem;">Ph.D. candidate and Graduate Research Assistant in Industrial &amp; Systems Engineering at the University of Tennessee, Knoxville.</p>
+  </div>
+  <img src="images/john-williams-headshot.jpg" alt="John Wayne Williams" width="150" height="150" style="display: block; width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #8ad8ff; background: #0b1220; box-shadow: 0 10px 24px rgba(12, 18, 29, 0.22);" />
 </div>
 
 <div>
