@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "John Wayne Williams / jwwildebeast"
+title                    : "John W Williams / jwwildebeast"
 title_separator          : "-"
 name                     : &name "John Williams"
 description              : &description "Ph.D. candidate and graduate research assistant in Industrial & Systems Engineering at the University of Tennessee, Knoxville."   # Update this with a general description of your site, this is the default if not overridden by a page
