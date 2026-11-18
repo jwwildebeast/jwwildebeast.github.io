@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "John Wayne Williams"
+title: "John W Williams"
 author_profile: true
 redirect_from: 
   - /about/
